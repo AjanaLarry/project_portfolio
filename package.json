@@ -1,0 +1,31 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "**My Express Portfolio Site**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjanaLarry/project_portfolio/issues"
+  },
+  "homepage": "https://github.com/AjanaLarry/project_portfolio/home",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.2",
+    "compression": "^1.7.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jquery": "^3.7.1",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1",
+    "popper.js": "^1.16.1"
+  }
+}
