@@ -1,8 +1,6 @@
-<!-- 
-Student ID: 301385235
-Student Name: Oluwajuwon Ajana
-Date: 09/03/2023
--->
+// Student ID: 301385235
+// Student Name: Oluwajuwon Ajana
+// Date: 09/03/2023
 
 const express = require("express");
 const router = express.Router();
